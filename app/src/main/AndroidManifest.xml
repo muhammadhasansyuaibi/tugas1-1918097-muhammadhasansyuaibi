@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Praktikum1_Intent_1918097">
         <activity
+            android:name=".Segitiga"
+            android:exported="true" />
+        <activity
             android:name=".Biodata"
             android:exported="true" />
         <activity
